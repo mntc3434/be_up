@@ -7,6 +7,6 @@ int main(){
     cin>>a;
 
     if(a==4){
-        cout<<"you enterd 4";// this is a codesdlfj
+        cout<<"you enterd 4";// this is a 
     }
 }
